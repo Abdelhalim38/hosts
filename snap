@@ -1,23 +1,42 @@
-snapchat.com
-app.snapchat.com
-snapchat.appspot.com
-sc-analytics.appspot.com
-www.feelinsonice.com
-feelinsonice.l.google.com
-feelinsonice.appspot.com
-feelinsonice-hrd.appspot.com
-data.flurry.com
-appspot.l.google.com
-gcp.api.snapchat.com
-us-central1-gcp.api.snapchat.com
-app.snapchat.com
-aws.duplex.snapchat.com
-mvm.snapchat.com
-us-east4-gcp.api.snapchat.com
-aws.api.snapchat.com
-us-east1-aws.api.snapchat.com
-pro-accounts.snapchat.com
-app-analytics-v2.snapchat.com
-europe-west1-gcp.api.snapchat.com
-pro-stories.snapchat.com
-api.snapchat.com
+# Porn domains
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# ===============================================================
+
+0.0.0.0 snapchat.com
+0.0.0.0 app.snapchat.com
+0.0.0.0 snapchat.appspot.com
+0.0.0.0 sc-analytics.appspot.com
+0.0.0.0 www.feelinsonice.com
+0.0.0.0 feelinsonice.l.google.com
+0.0.0.0 feelinsonice.appspot.com
+0.0.0.0 feelinsonice-hrd.appspot.com
+0.0.0.0 data.flurry.com
+0.0.0.0 appspot.l.google.com
+0.0.0.0 gcp.api.snapchat.com
+0.0.0.0 us-central1-gcp.api.snapchat.com
+0.0.0.0 app.snapchat.com
+0.0.0.0 aws.duplex.snapchat.com
+0.0.0.0 mvm.snapchat.com
+0.0.0.0 us-east4-gcp.api.snapchat.com
+0.0.0.0 aws.api.snapchat.com
+0.0.0.0 us-east1-aws.api.snapchat.com
+0.0.0.0 pro-accounts.snapchat.com
+0.0.0.0 app-analytics-v2.snapchat.com
+0.0.0.0 europe-west1-gcp.api.snapchat.com
+0.0.0.0 pro-stories.snapchat.com
+0.0.0.0 api.snapchat.com
