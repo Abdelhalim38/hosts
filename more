@@ -1,64 +1,82 @@
-connect.tapjoy.com.lan
-tapjoy.com
-wd.adcolony.com
-adcolony.com
-media.avakin.life
-avakin.life
-api.avkn.co
-adc3-launch.adcolony.com
-ads.mopub.com
-pbs.twimg.com
-p9.storage.canalblog.com
-fandeloup.f.a.pic.centerblog.net
-lh3.googleusercontent.com
-4.bp.blogspot.com
-1.bp.blogspot.com
-lookaside.fbsbx.com
-i.pinimg.com
-abunawaf.com
-i.ytimg.com
-farm6.staticflickr.com
-data.whicdn.com
-pic-hd.com
-upload.3dlat.com
-gmk.one
-yt3.ggpht.com
-rewity.com
-files.jubnaadserve.com
-cdn.jubnaadserve.com
-jubnaadserve.com
-wikiarab.com
-z.moatads.com
-speakol.com
-ahlaimages.com
-blogspot.com
-blogger.com
-sitejabber.com
-wordss.cc
-alwatanvoice.com
-raialyoum.com
-jubnaadserve.com
-almodon.com
-albasirah.net
-rasd.al-wafa.net
-n4hr.com
-thaqfny.com
-www.chhiwati.com
-collect.gtarcade.com
-amerigo.ideasolutions.it
-total-amerigo-config.b-cdn.net
-track.saygames.io
-track.saygames.io.lan
-cdn.liftoff.io
-cdn.liftoff.io.lan
-impression-europe.liftoff.io
-impression-europe.liftoff.io.lan
-pad-v3.presage.io
-pad-v3.presage.io.lan
-p.presage.io
-p.presage.io.lan
-fr.video.search.yahoo.com
-app.jubnaadserve.com
-bdr130.net
-modanisa.com
-storyly.io
+# More domains
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# ===============================================================
+
+0.0.0.0 1.bp.blogspot.com
+0.0.0.0 4.bp.blogspot.com
+0.0.0.0 abunawaf.com
+0.0.0.0 adc3-launch.adcolony.com
+0.0.0.0 adcolony.com
+0.0.0.0 ads.mopub.com
+0.0.0.0 ahlaimages.com
+0.0.0.0 albasirah.net
+0.0.0.0 almodon.com
+0.0.0.0 alwatanvoice.com
+0.0.0.0 amerigo.ideasolutions.it
+0.0.0.0 api.avkn.co
+0.0.0.0 app.jubnaadserve.com
+0.0.0.0 avakin.life
+0.0.0.0 bdr130.net
+0.0.0.0 blogger.com
+0.0.0.0 blogspot.com
+0.0.0.0 cdn.jubnaadserve.com
+0.0.0.0 cdn.liftoff.io
+0.0.0.0 cdn.liftoff.io.lan
+0.0.0.0 collect.gtarcade.com
+0.0.0.0 connect.tapjoy.com
+0.0.0.0 data.whicdn.com
+0.0.0.0 fandeloup.f.a.pic.centerblog.net
+0.0.0.0 farm6.staticflickr.com
+0.0.0.0 files.jubnaadserve.com
+0.0.0.0 fr.video.search.yahoo.com
+0.0.0.0 gmk.one
+0.0.0.0 i.pinimg.com
+0.0.0.0 i.ytimg.com
+0.0.0.0 impression-europe.liftoff.io
+0.0.0.0 impression-europe.liftoff.io.lan
+0.0.0.0 jubnaadserve.com
+0.0.0.0 jubnaadserve.com
+0.0.0.0 lookaside.fbsbx.com
+0.0.0.0 media.avakin.life
+0.0.0.0 modanisa.com
+0.0.0.0 n4hr.com
+0.0.0.0 p.presage.io
+0.0.0.0 p.presage.io.lan
+0.0.0.0 p9.storage.canalblog.com
+0.0.0.0 pad-v3.presage.io
+0.0.0.0 pad-v3.presage.io.lan
+0.0.0.0 pbs.twimg.com
+0.0.0.0 pic-hd.com
+0.0.0.0 raialyoum.com
+0.0.0.0 rasd.al-wafa.net
+0.0.0.0 rewity.com
+0.0.0.0 sitejabber.com
+0.0.0.0 speakol.com
+0.0.0.0 storyly.io
+0.0.0.0 tapjoy.com
+0.0.0.0 thaqfny.com
+0.0.0.0 total-amerigo-config.b-cdn.net
+0.0.0.0 track.saygames.io
+0.0.0.0 track.saygames.io.lan
+0.0.0.0 upload.3dlat.com
+0.0.0.0 wd.adcolony.com
+0.0.0.0 wikiarab.com
+0.0.0.0 wordss.cc
+0.0.0.0 www.chhiwati.com
+0.0.0.0 yt3.ggpht.com
+0.0.0.0 z.moatads.com
