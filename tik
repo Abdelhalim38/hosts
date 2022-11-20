@@ -1,91 +1,107 @@
-abtest-sg-tiktok.byteoversea.com
-api-h2.tiktokv.com
-api.tiktokv.com
-api16-core-c-alisg.tiktokv.com
-api16-core-c-alisg.tiktokv.com.edgekey.net
-api16-normal-c-alisg.tiktokv.com
-api16-normal-c-alisg.tiktokv.com.edgekey.net
-api19-core-c-alisg.tiktokv.com
-api19-normal-c-alisg.tiktokv.com
-api2-16-h2.musical.ly
-api2-21-h2.musical.ly
-api2.musical.ly
-cached api16-core-c-alisg.tiktokv.com
-cached api16-normal-c-alisg.tiktokv.com
-cached api16-normal-c-alisg.tiktokv.com.edgekey.net
-cached frontier.tiktokv.com
-cached imapi-16.tiktokv.com
-cached mon-va.tiktokv.com
-cached mon-va.tiktokv.com.edgesuite.net
-cached p16-sign-sg.tiktokcdn.com
-cached p16-sign-sg.tiktokcdn.com.akamaized.net
-dm16-alisg.tiktokv.com
-dm16-alisg.tiktokv.com.edgekey.net
-dm16-useast1a.tiktokv.com
-dm16-useast1a.tiktokv.com.edgekey.net
-dm16-useast2a.tiktokv.com
-dm16-useast2a.tiktokv.com.edgekey.net
-frontier.tiktokv.com
-gecko-sg.tiktokv.com
-gecko-sg.tiktokv.com.edgesuite.net
-ib.tiktokv.com
-imapi-16.tiktokv.com
-imapi-16.tiktokv.com.edgesuite.net
-log.tiktokv.com
-log.tiktokv.com.lan
-log2.musical.ly
-mon-va.tiktokv.com
-mon-va.tiktokv.com.edgesuite.net
-mon.musical.ly
-p16-sign-sg.tiktokcdn.com
-p16-sign-sg.tiktokcdn.com.akamaized.net
-p16-tiktokcdn-com.akamaized.net
-p16-va-tiktok.ibyteimg.com
-p16-va-tiktok.ibyteimg.com.akamaized.net
-p58-sign-sg.tiktokcdn.com
-p77-sg.tiktokcdn.com
-p77-sign-sg.tiktokcdn.com
-ssl.cdn.tiktok.com.c.footprint.net
-tiktok.com
-v16a.tiktokcdn.com
-v16m.tiktokcdn.com
-v16m.tiktokcdn.com.lan
-v19.tiktokcdn.com
-v19.tiktokcdn.com.lan
-v25.tiktokcdn.com
-v39-eu.tiktokcdn.com
-v77.tiktokcdn.com
-vm.tiktok.com
-vm.tiktok.com.lan
-webcast16-normal-c-alisg.tiktokv.com
-webcast16-normal-c-alisg.tiktokv.com.edgekey.net
-xlog.tiktokv.com
-xlog.tiktokv.com.edgesuite.net
-abtest-va-tiktok.byteoversea.com
-bytecdn.cn
-byted.org
-bytedanceapi.com
-byteoversea.com
-byteoversea.net
-ibytedtos.com
-isnssdk.com
-muscdn.com
-musemuse.cn
-musical.ly
-p16-ad-sg.ibyteimg.com
-p16-tiktok-sg.ibyteimg.com
-p16-tiktok-sign-va-h2.ibyteimg.com
-p16-tiktok-va-h2.ibyteimg.com
-p16-tiktok-va.ibyteimg.com
-p16-va-tiktok.ibyteimg.com
-sgsnssdk.com
-tiktok.com
-tiktokcdn-in.com
-tiktokcdn.com
-tiktokcdn.com.c.bytetcdn.com
-tiktokcdn.com.c.worldfcdn.com
-tiktokcdn.com.wsdvs.com
-tiktokcdn.liveplay.myqcloud.com
-tiktokv.com
-ttoversea.net
+# Tiktok domains
 
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# ===============================================================
+
+0.0.0.0 abtest-sg-tiktok.byteoversea.com
+0.0.0.0 abtest-va-tiktok.byteoversea.com
+0.0.0.0 api-h2.tiktokv.com
+0.0.0.0 api.tiktokv.com
+0.0.0.0 api16-core-c-alisg.tiktokv.com
+0.0.0.0 api16-core-c-alisg.tiktokv.com.edgekey.net
+0.0.0.0 api16-normal-c-alisg.tiktokv.com
+0.0.0.0 api16-normal-c-alisg.tiktokv.com.edgekey.net
+0.0.0.0 api19-core-c-alisg.tiktokv.com
+0.0.0.0 api19-normal-c-alisg.tiktokv.com
+0.0.0.0 api2-16-h2.musical.ly
+0.0.0.0 api2-21-h2.musical.ly
+0.0.0.0 api2.musical.ly
+0.0.0.0 bytecdn.cn
+0.0.0.0 byted.org
+0.0.0.0 bytedanceapi.com
+0.0.0.0 byteoversea.com
+0.0.0.0 byteoversea.net
+0.0.0.0 cached api16-core-c-alisg.tiktokv.com
+0.0.0.0 cached api16-normal-c-alisg.tiktokv.com
+0.0.0.0 cached api16-normal-c-alisg.tiktokv.com.edgekey.net
+0.0.0.0 cached frontier.tiktokv.com
+0.0.0.0 cached imapi-16.tiktokv.com
+0.0.0.0 cached mon-va.tiktokv.com
+0.0.0.0 cached mon-va.tiktokv.com.edgesuite.net
+0.0.0.0 cached p16-sign-sg.tiktokcdn.com
+0.0.0.0 cached p16-sign-sg.tiktokcdn.com.akamaized.net
+0.0.0.0 dm16-alisg.tiktokv.com
+0.0.0.0 dm16-alisg.tiktokv.com.edgekey.net
+0.0.0.0 dm16-useast1a.tiktokv.com
+0.0.0.0 dm16-useast1a.tiktokv.com.edgekey.net
+0.0.0.0 dm16-useast2a.tiktokv.com
+0.0.0.0 dm16-useast2a.tiktokv.com.edgekey.net
+0.0.0.0 frontier.tiktokv.com
+0.0.0.0 gecko-sg.tiktokv.com
+0.0.0.0 gecko-sg.tiktokv.com.edgesuite.net
+0.0.0.0 ib.tiktokv.com
+0.0.0.0 ibytedtos.com
+0.0.0.0 imapi-16.tiktokv.com
+0.0.0.0 imapi-16.tiktokv.com.edgesuite.net
+0.0.0.0 isnssdk.com
+0.0.0.0 log.tiktokv.com
+0.0.0.0 log.tiktokv.com.lan
+0.0.0.0 log2.musical.ly
+0.0.0.0 mon-va.tiktokv.com
+0.0.0.0 mon-va.tiktokv.com.edgesuite.net
+0.0.0.0 mon.musical.ly
+0.0.0.0 muscdn.com
+0.0.0.0 musemuse.cn
+0.0.0.0 musical.ly
+0.0.0.0 p16-ad-sg.ibyteimg.com
+0.0.0.0 p16-sign-sg.tiktokcdn.com
+0.0.0.0 p16-sign-sg.tiktokcdn.com.akamaized.net
+0.0.0.0 p16-tiktok-sg.ibyteimg.com
+0.0.0.0 p16-tiktok-sign-va-h2.ibyteimg.com
+0.0.0.0 p16-tiktok-va-h2.ibyteimg.com
+0.0.0.0 p16-tiktok-va.ibyteimg.com
+0.0.0.0 p16-tiktokcdn-com.akamaized.net
+0.0.0.0 p16-va-tiktok.ibyteimg.com
+0.0.0.0 p16-va-tiktok.ibyteimg.com.akamaized.net
+0.0.0.0 p58-sign-sg.tiktokcdn.com
+0.0.0.0 p77-sg.tiktokcdn.com
+0.0.0.0 p77-sign-sg.tiktokcdn.com
+0.0.0.0 sgsnssdk.com
+0.0.0.0 ssl.cdn.tiktok.com.c.footprint.net
+0.0.0.0 tiktok.com
+0.0.0.0 tiktokcdn-in.com
+0.0.0.0 tiktokcdn.com
+0.0.0.0 tiktokcdn.com.c.bytetcdn.com
+0.0.0.0 tiktokcdn.com.c.worldfcdn.com
+0.0.0.0 tiktokcdn.com.wsdvs.com
+0.0.0.0 tiktokcdn.liveplay.myqcloud.com
+0.0.0.0 tiktokv.com
+0.0.0.0 ttoversea.net
+0.0.0.0 v16a.tiktokcdn.com
+0.0.0.0 v16m.tiktokcdn.com
+0.0.0.0 v16m.tiktokcdn.com.lan
+0.0.0.0 v19.tiktokcdn.com
+0.0.0.0 v19.tiktokcdn.com.lan
+0.0.0.0 v25.tiktokcdn.com
+0.0.0.0 v39-eu.tiktokcdn.com
+0.0.0.0 v77.tiktokcdn.com
+0.0.0.0 vm.tiktok.com
+0.0.0.0 vm.tiktok.com.lan
+0.0.0.0 webcast16-normal-c-alisg.tiktokv.com
+0.0.0.0 webcast16-normal-c-alisg.tiktokv.com.edgekey.net
+0.0.0.0 xlog.tiktokv.com
+0.0.0.0 xlog.tiktokv.com.edgesuite.net
