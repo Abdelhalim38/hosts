@@ -1,150 +1,166 @@
-a.ish.instagram.com
-about.instagram.com
-admin.instagram.com
-ads10jhb.secure.latest.instagram.com
-adsurf.secure.latest.instagram.com
-adtech.secure.latest.instagram.com
-airtrack.secure.latest.instagram.com
-ak.instagram.com
-analystics.secure.latest.instagram.com
-analytics-demo.secure.latest.instagram.com
-analytictrading.secure.latest.instagram.com
-analyzed.secure.latest.instagram.com
-api.instagram.com
-applink.instagram.com
-autodiscover.instagram.com
-b.i.instagram.com
-b.ish.instagram.com
-b.secure.instagram.com
-badges.instagram.com
-black.instagram.com
-blog.instagram.com
-business.instagram.com
-business.intern.instagram.com
-businessphoneservicea5.latest.instagram.com
-c.ish.instagram.com
-ceheindependence.latest.instagram.com
-climatecommunication.latest.instagram.com
-coloredlogs.beta.latest.instagram.com
-community.instagram.com
-d.ish.instagram.com
-detroitbecomehumanpcdownload.latest.instagram.com
-display.latest.instagram.com
-distilleryimage10.instagram.com
-distilleryimage2.ak.instagram.com
-distilleryimage4.ak.instagram.com
-distilleryimage6.instagram.com
-distilleryimage9.instagram.com
-distilleryvesper10-18.ak.instagram.com
-distilleryvesper2-10.ak.instagram.com
-distilleryvesper2-2.ak.instagram.com
-distilleryvesper3-15.ak.instagram.com
-distilleryvesper4-0.ak.instagram.com
-distilleryvesper8-12.ak.instagram.com
-distilleryvesper9-17.ak.instagram.com
-dyi.www.instagram.com
-e.ish.instagram.com
-edge-chat.instagram.com
-employee.instagram.com
-en-gb.latest.instagram.com
-eulauretta.instagram.com
-geo.instagram.com
-grammys.instagram.com
-graph.instagram.com
-graph.instagram.com.lan
-graphql.instagram.com
-guia-lima.latest.instagram.com
-help.hyperlase.beta.latest.instagram.com
-help.instagram.com
-help.latest.instagram.com
-hyperlapse.instagram.com
-i.instagram.com
-i.instagram.com.lan
-images.ak.instagram.com
-images.instagram.com
-instagram.com
-instagram.fr
-instagram.lan
-l.instagram.com
-live-dev.instagram.com
-live-upload-staging.instagram.com
-live-upload.instagram.com
-live-vp-dev.instagram.com
-live-vp-upload.instagram.com
-logger.instagram.com
-lookaside.instagram.com
-m.help.instagram.com
-mail.instagram.com
-maps.instagram.com
-nen-gb.latest.instagram.com
-nhelp.latest.instagram.com
-nsecure.latest.instagram.com
-parents.instagram.com
-photos-a.ak.instagram.com
-photos-b.ak.instagram.com
-photos-d.ak.instagram.com
-photos-e.ak.instagram.com
-photos-f.ak.instagram.com
-photos-h.ak.instagram.com
-platform.instagram.com
-preprod.instagram.com
-prerelease.instagram.com
-privacy.instagram.com
-rats-facebook.beta.latest.instagram.com
-safety.instagram.com
-scontent-cdg2-1.cdninstagram.com
-scontent-cdt1-1.cdninstagram.com
-scontent.cdninstagram.com
-secure.latest.instagram.com
-shortwave.instagram.com
-static.ak.instagram.com
-streaming-graph.instagram.com
-survey.instagram.com
-telegraph-ash.instagram.com
-threatmap.latest.instagram.com
-tpompspc.latest.instagram.com
-unknownjapan.instagram.com
-upload-ec2.instagram.com
-upload.instagram.com
-videos-a-9.ak.instagram.com
-videos-b-4.ak.instagram.com
-videos-c-0.ak.instagram.com
-videos-c-11.ak.instagram.com
-videos-c-14.ak.instagram.com
-videos-d-15.ak.instagram.com
-videos-d-17.ak.instagram.com
-videos-d-2.ak.instagram.com
-videos-e-5.ak.instagram.com
-videos-f-17.ak.instagram.com
-videos-f-7.ak.instagram.com
-videos-g-0.ak.instagram.com
-videos-g-17.ak.instagram.com
-videos-h-7.ak.instagram.com
-videos-h-8.ak.instagram.com
-wellbeing.instagram.com
-white.instagram.com
-white.ish.instagram.com
-www.instagram.com
-www.latest.instagram.com 
-z-p15.dyi.www.instagram.com
-z-p15.graph.instagram.com
-z-p15.i.instagram.com
-z-p15.lookaside.instagram.com
-z-p15.m.instagram.com
-z-p15.maps.instagram.com
-z-p15.upload.instagram.com
-z-p15.www.instagram.com
-z-p3.www.instagram.com
-z-p4.dyi.www.instagram.com
-z-p4.graph.instagram.com
-z-p4.i.instagram.com
-z-p4.maps.instagram.com
-z-p4.upload.instagram.com
-z-p4.www.instagram.com
-z-p42.dyi.www.instagram.com
-z-p42.graph.instagram.com
-z-p42.i.instagram.com
-z-p42.lookaside.instagram.com
-z-p42.m.instagram.com
-z-p42.maps.instagram.com
-z-p42.www.instagram.com
+# Instagram domains
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# ===============================================================
+
+0.0.0.0 a.ish.instagram.com
+0.0.0.0 about.instagram.com
+0.0.0.0 admin.instagram.com
+0.0.0.0 ads10jhb.secure.latest.instagram.com
+0.0.0.0 adsurf.secure.latest.instagram.com
+0.0.0.0 adtech.secure.latest.instagram.com
+0.0.0.0 airtrack.secure.latest.instagram.com
+0.0.0.0 ak.instagram.com
+0.0.0.0 analystics.secure.latest.instagram.com
+0.0.0.0 analytics-demo.secure.latest.instagram.com
+0.0.0.0 analytictrading.secure.latest.instagram.com
+0.0.0.0 analyzed.secure.latest.instagram.com
+0.0.0.0 api.instagram.com
+0.0.0.0 applink.instagram.com
+0.0.0.0 autodiscover.instagram.com
+0.0.0.0 b.i.instagram.com
+0.0.0.0 b.ish.instagram.com
+0.0.0.0 b.secure.instagram.com
+0.0.0.0 badges.instagram.com
+0.0.0.0 black.instagram.com
+0.0.0.0 blog.instagram.com
+0.0.0.0 business.instagram.com
+0.0.0.0 business.intern.instagram.com
+0.0.0.0 businessphoneservicea5.latest.instagram.com
+0.0.0.0 c.ish.instagram.com
+0.0.0.0 ceheindependence.latest.instagram.com
+0.0.0.0 climatecommunication.latest.instagram.com
+0.0.0.0 coloredlogs.beta.latest.instagram.com
+0.0.0.0 community.instagram.com
+0.0.0.0 d.ish.instagram.com
+0.0.0.0 detroitbecomehumanpcdownload.latest.instagram.com
+0.0.0.0 display.latest.instagram.com
+0.0.0.0 distilleryimage10.instagram.com
+0.0.0.0 distilleryimage2.ak.instagram.com
+0.0.0.0 distilleryimage4.ak.instagram.com
+0.0.0.0 distilleryimage6.instagram.com
+0.0.0.0 distilleryimage9.instagram.com
+0.0.0.0 distilleryvesper10-18.ak.instagram.com
+0.0.0.0 distilleryvesper2-10.ak.instagram.com
+0.0.0.0 distilleryvesper2-2.ak.instagram.com
+0.0.0.0 distilleryvesper3-15.ak.instagram.com
+0.0.0.0 distilleryvesper4-0.ak.instagram.com
+0.0.0.0 distilleryvesper8-12.ak.instagram.com
+0.0.0.0 distilleryvesper9-17.ak.instagram.com
+0.0.0.0 dyi.www.instagram.com
+0.0.0.0 e.ish.instagram.com
+0.0.0.0 edge-chat.instagram.com
+0.0.0.0 employee.instagram.com
+0.0.0.0 en-gb.latest.instagram.com
+0.0.0.0 eulauretta.instagram.com
+0.0.0.0 geo.instagram.com
+0.0.0.0 grammys.instagram.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 graphql.instagram.com
+0.0.0.0 guia-lima.latest.instagram.com
+0.0.0.0 help.hyperlase.beta.latest.instagram.com
+0.0.0.0 help.instagram.com
+0.0.0.0 help.latest.instagram.com
+0.0.0.0 hyperlapse.instagram.com
+0.0.0.0 i.instagram.com
+0.0.0.0 images.ak.instagram.com
+0.0.0.0 images.instagram.com
+0.0.0.0 instagram.com
+0.0.0.0 instagram.fr
+0.0.0.0 l.instagram.com
+0.0.0.0 live-dev.instagram.com
+0.0.0.0 live-upload-staging.instagram.com
+0.0.0.0 live-upload.instagram.com
+0.0.0.0 live-vp-dev.instagram.com
+0.0.0.0 live-vp-upload.instagram.com
+0.0.0.0 logger.instagram.com
+0.0.0.0 lookaside.instagram.com
+0.0.0.0 m.help.instagram.com
+0.0.0.0 mail.instagram.com
+0.0.0.0 maps.instagram.com
+0.0.0.0 nen-gb.latest.instagram.com
+0.0.0.0 nhelp.latest.instagram.com
+0.0.0.0 nsecure.latest.instagram.com
+0.0.0.0 parents.instagram.com
+0.0.0.0 photos-a.ak.instagram.com
+0.0.0.0 photos-b.ak.instagram.com
+0.0.0.0 photos-d.ak.instagram.com
+0.0.0.0 photos-e.ak.instagram.com
+0.0.0.0 photos-f.ak.instagram.com
+0.0.0.0 photos-h.ak.instagram.com
+0.0.0.0 platform.instagram.com
+0.0.0.0 preprod.instagram.com
+0.0.0.0 prerelease.instagram.com
+0.0.0.0 privacy.instagram.com
+0.0.0.0 rats-facebook.beta.latest.instagram.com
+0.0.0.0 safety.instagram.com
+0.0.0.0 scontent-cdg2-1.cdninstagram.com
+0.0.0.0 scontent-cdt1-1.cdninstagram.com
+0.0.0.0 scontent.cdninstagram.com
+0.0.0.0 secure.latest.instagram.com
+0.0.0.0 shortwave.instagram.com
+0.0.0.0 static.ak.instagram.com
+0.0.0.0 streaming-graph.instagram.com
+0.0.0.0 survey.instagram.com
+0.0.0.0 telegraph-ash.instagram.com
+0.0.0.0 threatmap.latest.instagram.com
+0.0.0.0 tpompspc.latest.instagram.com
+0.0.0.0 unknownjapan.instagram.com
+0.0.0.0 upload-ec2.instagram.com
+0.0.0.0 upload.instagram.com
+0.0.0.0 videos-a-9.ak.instagram.com
+0.0.0.0 videos-b-4.ak.instagram.com
+0.0.0.0 videos-c-0.ak.instagram.com
+0.0.0.0 videos-c-11.ak.instagram.com
+0.0.0.0 videos-c-14.ak.instagram.com
+0.0.0.0 videos-d-15.ak.instagram.com
+0.0.0.0 videos-d-17.ak.instagram.com
+0.0.0.0 videos-d-2.ak.instagram.com
+0.0.0.0 videos-e-5.ak.instagram.com
+0.0.0.0 videos-f-17.ak.instagram.com
+0.0.0.0 videos-f-7.ak.instagram.com
+0.0.0.0 videos-g-0.ak.instagram.com
+0.0.0.0 videos-g-17.ak.instagram.com
+0.0.0.0 videos-h-7.ak.instagram.com
+0.0.0.0 videos-h-8.ak.instagram.com
+0.0.0.0 wellbeing.instagram.com
+0.0.0.0 white.instagram.com
+0.0.0.0 white.ish.instagram.com
+0.0.0.0 www.instagram.com
+0.0.0.0 www.latest.instagram.com 
+0.0.0.0 z-p15.dyi.www.instagram.com
+0.0.0.0 z-p15.graph.instagram.com
+0.0.0.0 z-p15.i.instagram.com
+0.0.0.0 z-p15.lookaside.instagram.com
+0.0.0.0 z-p15.m.instagram.com
+0.0.0.0 z-p15.maps.instagram.com
+0.0.0.0 z-p15.upload.instagram.com
+0.0.0.0 z-p15.www.instagram.com
+0.0.0.0 z-p3.www.instagram.com
+0.0.0.0 z-p4.dyi.www.instagram.com
+0.0.0.0 z-p4.graph.instagram.com
+0.0.0.0 z-p4.i.instagram.com
+0.0.0.0 z-p4.maps.instagram.com
+0.0.0.0 z-p4.upload.instagram.com
+0.0.0.0 z-p4.www.instagram.com
+0.0.0.0 z-p42.dyi.www.instagram.com
+0.0.0.0 z-p42.graph.instagram.com
+0.0.0.0 z-p42.i.instagram.com
+0.0.0.0 z-p42.lookaside.instagram.com
+0.0.0.0 z-p42.m.instagram.com
+0.0.0.0 z-p42.maps.instagram.com
+0.0.0.0 z-p42.www.instagram.com
