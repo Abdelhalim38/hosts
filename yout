@@ -22,7 +22,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 misc.api.snaptube.app.lan
 0.0.0.0 api.ad.snaptube.app
 0.0.0.0 callback.ad.snaptube.app
-0.0.0.0 ipds.opr.adx.opera.com
 0.0.0.0 misc.api.snaptube.app
 0.0.0.0 centerblog.net
 0.0.0.0 dailymotion.com
