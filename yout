@@ -17,6 +17,7 @@ ff02::3 ip6-allhosts
 
 # ===============================================================
 
+0.0.0.0 misc.api.snaptube.app
 0.0.0.0 centerblog.net
 0.0.0.0 dailymotion.com
 0.0.0.0 dmotion.s.llnwi.net
