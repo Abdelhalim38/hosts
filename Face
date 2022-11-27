@@ -17,6 +17,7 @@ ff02::3 ip6-allhosts
 
 # ===============================================================
 
+0.0.0.0 api.fc.mob.com
 0.0.0.0 scontent-cdt1-1.xx.fbcdn.net
 0.0.0.0 facebook.com
 0.0.0.0 fb.com
