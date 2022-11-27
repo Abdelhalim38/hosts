@@ -29,6 +29,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 gateway.facebook.com
 0.0.0.0 edge-mqtt.facebook.com
 0.0.0.0 portal.fb.com
+0.0.0.0 api.facebook.com
+0.0.0.0 b-api.facebook.com
 0.0.0.0 scontent-cdt1-1.xx.fbcdn.net.lan
 0.0.0.0 facebook.com.lan
 0.0.0.0 fb.com.lan
@@ -41,3 +43,5 @@ ff02::3 ip6-allhosts
 0.0.0.0 gateway.facebook.com.lan
 0.0.0.0 edge-mqtt.facebook.com.lan
 0.0.0.0 portal.fb.com.lan
+0.0.0.0 api.facebook.com.lan
+0.0.0.0 b-api.facebook.com.lan
