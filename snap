@@ -40,3 +40,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 europe-west1-gcp.api.snapchat.com
 0.0.0.0 pro-stories.snapchat.com
 0.0.0.0 api.snapchat.com
+0.0.0.0 app-analytics-v2.snapchat.com
+0.0.0.0 app.snapchat.com
+0.0.0.0 aws-proxy-gcp.api.snapchat.com
+0.0.0.0 aws.api.snapchat.com
+0.0.0.0 aws.duplex.snapchat.com
+0.0.0.0 europe-west1-gcp.api.snapchat.com
+0.0.0.0 gcp.api.snapchat.com
+0.0.0.0 us-central1-gcp.api.snapchat.com
+0.0.0.0 us-east1-aws-acc.api.snapchat.com
+0.0.0.0 us-east1-aws.api.snapchat.com
+0.0.0.0 us-east4-gcp.api.snapchat.com
