@@ -28,6 +28,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.ad.snaptube.app
 0.0.0.0 callback.ad.snaptube.app
 0.0.0.0 misc.api.snaptube.app
+0.0.0.0 misc.api.snaptube.app
+0.0.0.0 api.snaptube.app
+0.0.0.0 snaptube-ngxv3-eksv3-nlb-114ba0914876b3b2.elb.us-east-1.amazonaws.com
 
 # Dailymotion
 
