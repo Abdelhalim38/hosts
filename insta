@@ -17,6 +17,15 @@ ff02::3 ip6-allhosts
 
 # ===============================================================
 
+0.0.0.0 gateway.instagram.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 i-fallback.instagram.com
+0.0.0.0 i.instagram.com
+0.0.0.0 scontent-cdg4-1.cdninstagram.com
+0.0.0.0 scontent-cdg4-2.cdninstagram.com
+0.0.0.0 scontent-cdg4-3.cdninstagram.com
+0.0.0.0 scontent.cdninstagram.com
+0.0.0.0 www.instagram.com
 0.0.0.0 cdninstagram.com
 0.0.0.0 scontent-cdt1-1.cdninstagram.com
 0.0.0.0 a.ish.instagram.com
