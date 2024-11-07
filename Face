@@ -18,6 +18,7 @@ ff02::3 ip6-allhosts
 # ===============================================================
 
 0.0.0.0 b-graph.facebook.com
+0.0.0.0 b-graph.facebook.co
 0.0.0.0 chat-e2ee-mini.facebook.com
 0.0.0.0 connect.facebook.net
 0.0.0.0 edge-mqtt.facebook.com
